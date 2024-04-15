@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.0"
+  },
+  "name": "project",
+  "version": "1.0.0",
+  "main": "config.js",
+  "scripts": {
+    "start": "nodemon Express.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
